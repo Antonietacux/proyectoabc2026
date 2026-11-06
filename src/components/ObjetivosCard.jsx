@@ -9,13 +9,14 @@ function ObjetivosCard({ competencia, indicadorLogro }) {
       style={{
         border: "2px solid #cbd5e1",
         borderLeft: "8px solid #0ea5e9",
+        
         padding: "25px",
         borderRadius: "8px",
         backgroundColor: "#f8fafc",
         margin: "15px 0"
       }}
     >
-      <h3 style={{ color: "#5e73a5" }}>
+      <h3 style={{ color: "#5c7dca" }}>
          Competencia: {competencia}
       </h3>
 
